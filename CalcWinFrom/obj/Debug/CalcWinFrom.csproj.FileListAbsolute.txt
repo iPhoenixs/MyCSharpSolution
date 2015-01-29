@@ -1,0 +1,12 @@
+C:\Users\Uthen.P\Desktop\SampleSolution\CalcWinFrom\bin\Debug\CalcWinFrom.exe.config
+C:\Users\Uthen.P\Desktop\SampleSolution\CalcWinFrom\bin\Debug\CalcWinFrom.exe
+C:\Users\Uthen.P\Desktop\SampleSolution\CalcWinFrom\bin\Debug\CalcWinFrom.pdb
+C:\Users\Uthen.P\Desktop\SampleSolution\CalcWinFrom\obj\Debug\CalcWinFrom.Form1.resources
+C:\Users\Uthen.P\Desktop\SampleSolution\CalcWinFrom\obj\Debug\CalcWinFrom.Properties.Resources.resources
+C:\Users\Uthen.P\Desktop\SampleSolution\CalcWinFrom\obj\Debug\CalcWinFrom.csproj.GenerateResource.Cache
+C:\Users\Uthen.P\Desktop\SampleSolution\CalcWinFrom\obj\Debug\CalcWinFrom.exe
+C:\Users\Uthen.P\Desktop\SampleSolution\CalcWinFrom\obj\Debug\CalcWinFrom.pdb
+C:\Users\Uthen.P\Desktop\SampleSolution\CalcWinFrom\obj\Debug\CalcWinFrom.csprojResolveAssemblyReference.cache
+C:\Users\Uthen.P\OneDrive\iPhoenix Development\MyCSharpSolution\MyCSharpSolution\CalcWinFrom\bin\Debug\CalcWinFrom.exe.config
+C:\Users\Uthen.P\OneDrive\iPhoenix Development\MyCSharpSolution\MyCSharpSolution\CalcWinFrom\obj\Debug\CalcWinFrom.exe
+C:\Users\Uthen.P\OneDrive\iPhoenix Development\MyCSharpSolution\MyCSharpSolution\CalcWinFrom\obj\Debug\CalcWinFrom.pdb
